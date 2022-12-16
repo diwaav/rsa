@@ -1,4 +1,4 @@
-# Assignment 6 - Public Key Cryptography 
+# Public Key Cryptography [CSE 13S]
 This program uses three executable files to (1) generate keys, then (2) encrypt a 
 message so that only the intended end user can decrypt it, and then (3) to decrypt a 
 valid file.
